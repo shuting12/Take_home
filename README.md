@@ -12,6 +12,7 @@ There are 3 files in total:
      
 4. Key Insights on User Growth Trends and Data Quality Issues.pdf
    - This is the email I would send to the team, sharing key findings from the data and highlighting important data quality issues.
+   - also included word version in case any download/open issue. 
 
 ### Prerequisites:
 If you would like to run the python file, please make sure you have following packages:
