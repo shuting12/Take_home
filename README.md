@@ -19,3 +19,5 @@ If you would like to run the python file, please make sure you have following pa
 2. seaborn 
 3. pandasql
 
+Also don't forget to change the file path.
+
